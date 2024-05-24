@@ -1,0 +1,14 @@
+* {
+    font-family: 'poppins', sans-serif;
+}
+
+.banner {
+    background-image: url(IMAGES/pexels-lukas-349610.jpg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.skillspadding {
+    padding: 70px 0;
+}
